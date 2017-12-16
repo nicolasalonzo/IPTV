@@ -2272,7 +2272,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HTV)/index.m3u8
 http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" group-title="LATINO",Historia
-http://flus0.sanpedrowifi.com/live/historia.SD.IRD/mono.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HISTORY_CHANNEL_HD)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/uWdY6xI.png" group-title="LATINO",History
 http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
